@@ -1,1 +1,6 @@
-Folder for my testing types diagrams and materials
+#Testing Types Diagram
+У цій папці зібрані діаграми, які демонструють структуру та взаємозв’язки типів тестування.
+###Приклади:
+- **Testing Types Diagram** — класифікація за рівнями (unit, integration, system, acceptance).
+- **Manual vs Automation Testing** — основні відмінності, цілі та підходи.
+> Матеріали створено для кращого розуміння процесу тестування та взаємодії між його типами.
